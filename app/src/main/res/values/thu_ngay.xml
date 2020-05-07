@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numbers">
+        <item>Thứ 2 </item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+
+    </string-array>
+</resources>
